@@ -1,0 +1,38 @@
+*{
+    margin: 10px;
+    padding: 10px;
+}
+body {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
+.contacto{
+    width: 20vw; 
+    padding: 20px;
+    margin: 10px;
+}
+.contacto a{
+    text-decoration: none;
+    color: black;
+}
+.contacto h2{
+    color: gray;
+}
+.sobremi{
+    width: 80vw; 
+    padding: 20px;
+    margin: 10px;
+}   
+.sobremi h2{
+    color: gray;
+}    
+img {
+height: 150px;
+width: 150px;
+}
+.conocimientos{
+    width: 50%;
+    border: solid gray;
+    background-color: gray;
+}
